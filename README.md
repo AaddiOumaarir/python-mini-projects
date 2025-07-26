@@ -1,2 +1,2 @@
 # python-mini-projects
-a fun projects for learning porpuses
+a fun projects for learning purposes
